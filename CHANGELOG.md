@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/firestore?activeTab=versions
 
+### [3.5.1](https://www.github.com/googleapis/nodejs-firestore/compare/v3.5.0...v3.5.1) (2020-02-07)
+
+
+### Bug Fixes
+
+* pass x-goog-request-params header for streaming calls ([#920](https://www.github.com/googleapis/nodejs-firestore/issues/920)) ([cfbe19e](https://www.github.com/googleapis/nodejs-firestore/commit/cfbe19ed4c3cc6bb9ffc7b352de901150b8b9dea))
+
 ## [3.5.0](https://www.github.com/googleapis/nodejs-firestore/compare/v3.4.1...v3.5.0) (2020-02-07)
 
 
